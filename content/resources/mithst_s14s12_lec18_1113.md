@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos and Slides
 parent_type: CourseSection
+parent_uid: 9aeff07f-fed7-77f2-eb04-c542514b6797
 resourcetype: Document
 title: Spring 2011 Lecture 13
 uid: f00dfa64-c5ae-04a0-ea82-6360cca7325a

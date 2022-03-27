@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 4c05b1e1-5d21-c3a0-2fff-e498c5e40b32
 resourcetype: Document
 title: 'Final paper: Vaccine Supply Chain in Ethiopia'
 uid: c3e837ff-72b1-27d5-615a-10329907e582

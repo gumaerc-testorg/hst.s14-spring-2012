@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 4c05b1e1-5d21-c3a0-2fff-e498c5e40b32
 resourcetype: Document
 title: 'Final paper: Impact of US Federal Funding on Global e-Health Initiatives in
   Developing Countries'
