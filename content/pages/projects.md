@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section describes the final project process, milestones, and objectives,
+  and includes several sample final presentations and final papers.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Projects
 uid: 4c05b1e1-5d21-c3a0-2fff-e498c5e40b32
 ---
 
-This page describes the final project process, milestones, and objectives, and includes several sample [final presentations]({{< baseurl >}}/pages/projects#Final_Pres) and [final papers]({{< baseurl >}}/pages/projects#Final_Papers).
+This page describes the final project process, milestones, and objectives, and includes several sample {{% resource_link 4c05b1e1-5d21-c3a0-2fff-e498c5e40b32 "final presentations" "#Final_Pres" %}} and {{% resource_link 4c05b1e1-5d21-c3a0-2fff-e498c5e40b32 "final papers" "#Final_Papers" %}}.
 
 Project Milestones
 ------------------
@@ -78,9 +80,9 @@ At the last class meeting, student groups present their final project findings.
 
 These sample final presentations, from the Spring 2012 class, are posted courtesy of the students and used with permission.
 
-["The Malawai Dataset" (PDF)]({{< baseurl >}}/resources/mithst_s14s12_proj_s12_1) by Dhaval Adojah.
+{{% resource_link beb35c56-e192-a600-76c9-f24d8b030e3a "\"The Malawai Dataset\" (PDF)" %}} by Dhaval Adojah.
 
-["Health Information Systems for Maternal Health in Zimbabwe" (PDF)]({{< baseurl >}}/resources/mithst_s14s12_proj_s12_2) by Eden G-Sellassie and Tewuh Fomunyam.
+{{% resource_link 3e20d9b3-c7e5-69df-db9b-4456b3726794 "\"Health Information Systems for Maternal Health in Zimbabwe\" (PDF)" %}} by Eden G-Sellassie and Tewuh Fomunyam.
 
 {{< anchor "Final_Papers" >}}{{< /anchor >}}Final Project Paper
 ---------------------------------------------------------------
@@ -108,8 +110,8 @@ Papers will be graded on the power of the analysis. Grading criteria include:
 
 These sample final papers, from the Spring 2011 class, are posted courtesy of the students and used with permission.
 
-["Designing a Public Health Software Framework: Porting OpenMRS data to i2b2" (PDF - 1.0MB)]({{< baseurl >}}/resources/mithst_s14s12_proj_i2b2) by Tewuh Fomunyam, Jamie Symonds, and Stephen Lorenz.
+{{% resource_link 01f52906-e710-1bc8-ca8e-1639dd90a896 "\"Designing a Public Health Software Framework: Porting OpenMRS data to i2b2\" (PDF - 1.0MB)" %}} by Tewuh Fomunyam, Jamie Symonds, and Stephen Lorenz.
 
-["Impact of US Federal Funding on Global e-Health Initiatives in Developing Countries" (PDF)]({{< baseurl >}}/resources/mithst_s14s12_proj_usfund) by Patrick Pascal Saint-Firmin, Olateju Sarafadeen, Ikenna Momah, Arjuna Premachandra, and anonymous student.
+{{% resource_link e98304fc-c3c4-6395-c5e6-29e2afdcfcd7 "\"Impact of US Federal Funding on Global e-Health Initiatives in Developing Countries\" (PDF)" %}} by Patrick Pascal Saint-Firmin, Olateju Sarafadeen, Ikenna Momah, Arjuna Premachandra, and anonymous student.
 
-["Vaccine Supply Chain in Ethiopia" (PDF)]({{< baseurl >}}/resources/mithst_s14s11_proj_vaccine) by Hajara Nanteza Walusimbi and three anonymous students.
+{{% resource_link c3e837ff-72b1-27d5-615a-10329907e582 "\"Vaccine Supply Chain in Ethiopia\" (PDF)" %}} by Hajara Nanteza Walusimbi and three anonymous students.
