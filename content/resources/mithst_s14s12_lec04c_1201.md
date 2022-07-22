@@ -5,6 +5,7 @@ file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos and Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Spring 2012 Lecture 1.3
 uid: 97ac6ee1-ab8c-4e00-fd5b-9619eea7f267
 ---
 This resource contains information regarding Project mentor presentations.
-

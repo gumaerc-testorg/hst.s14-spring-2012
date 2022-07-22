@@ -6,6 +6,7 @@ file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Final paper: Designing a Public Health Software Framework: Porting OpenM
 uid: 01f52906-e710-1bc8-ca8e-1639dd90a896
 ---
 This resource contains information regarding Designing a Public Health Software Framework: Porting OpenMRS data to i2b2
-

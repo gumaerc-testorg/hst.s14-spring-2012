@@ -6,6 +6,7 @@ file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Final paper: Vaccine Supply Chain in Ethiopia'
 uid: c3e837ff-72b1-27d5-615a-10329907e582
 ---
 This resource contains information regarding Vaccine Supply Chain in Ethiopia.
-

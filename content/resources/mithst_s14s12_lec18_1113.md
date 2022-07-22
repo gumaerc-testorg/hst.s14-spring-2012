@@ -6,6 +6,7 @@ file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos and Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Spring 2011 Lecture 13
 uid: f00dfa64-c5ae-04a0-ea82-6360cca7325a
 ---
 This resource contains information regarding Organizational Change: Lean Sigma.
-

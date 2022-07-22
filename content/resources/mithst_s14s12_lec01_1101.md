@@ -6,6 +6,7 @@ file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos and Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Spring 2011 Lecture 1
 uid: 45ac54bb-57ae-3a52-e0bc-25e3279a60c7
 ---
 This resource contains information regarding Translational Research and Advocacy: New Paradigms for Equity.
-

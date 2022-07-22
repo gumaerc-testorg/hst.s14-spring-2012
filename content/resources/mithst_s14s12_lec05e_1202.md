@@ -6,6 +6,7 @@ file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos and Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Spring 2012 Lecture 2.5
 uid: 8a0dd38e-ee18-9542-d97f-3ef49ddea72d
 ---
 This resource contains information regarding Sana development workshop: Android client and OpenMRS development.
-

@@ -6,6 +6,7 @@ file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos and Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Spring 2012 Lecture 9
 uid: 0d48e26d-8ea1-8e58-8a70-3c6cf9769e69
 ---
 This resource contains information regarding Case study: Neri Clinics: Primary care in the developing world.
-

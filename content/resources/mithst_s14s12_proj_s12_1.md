@@ -5,6 +5,7 @@ file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Spring 2012 Lecture 10.1
 uid: beb35c56-e192-a600-76c9-f24d8b030e3a
 ---
 This resource contains information regarding Student final project presentations.
-

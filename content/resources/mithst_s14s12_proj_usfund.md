@@ -6,6 +6,7 @@ file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Final paper: Impact of US Federal Funding on Global e-Health Initiatives
 uid: e98304fc-c3c4-6395-c5e6-29e2afdcfcd7
 ---
 This resource contains information regarding Impact of US Federal Funding on Global e-Health Initiatives in Developing Countries
-

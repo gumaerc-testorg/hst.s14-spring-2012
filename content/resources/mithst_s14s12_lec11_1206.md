@@ -7,6 +7,7 @@ file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos and Slides
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Spring 2012 Lecture 6
 uid: bb9c7abb-e11a-412d-df1e-904d021c810c
 ---
 This resource contains information regarding Smart software design for healthcare: unbiased signals, open and affordable technology for resource-constrained healthcare.
-
