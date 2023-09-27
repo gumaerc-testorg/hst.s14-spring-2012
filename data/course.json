@@ -2,7 +2,8 @@
   "term": "Spring",
   "year": "2012",
   "level": [
-    "Graduate"
+    "Graduate",
+    "Undergraduate"
   ],
   "topics": [
     [
@@ -57,6 +58,7 @@
     "Lecture Notes",
     "Projects with Examples"
   ],
-  "site_uid": "3f875b33-dc72-4f96-af84-fc516e9deae8",
+  "site_uid": "f00b2095-25f1-45c4-bc0a-2860fd38f818",
+  "site_short_id": "hst.s14-spring-2012",
   "title": "Course Metadata"
 }
