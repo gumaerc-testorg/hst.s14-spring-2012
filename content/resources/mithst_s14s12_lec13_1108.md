@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding Checklists: Quality improvement
   in developing countries.'
 file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/af3b25142680f7fa8999288074295ec3_MITHST_S14S12_lec13_1108.pdf
+file_size: 2801994
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

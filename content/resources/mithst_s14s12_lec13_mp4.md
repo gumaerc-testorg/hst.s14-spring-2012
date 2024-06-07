@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/mithst_s14s12_lec13_360p_16_9.mp4
-file_size: 1168331493
+file_size: 122677527
 file_type: video/mp4
 image_metadata:
   caption: ''
