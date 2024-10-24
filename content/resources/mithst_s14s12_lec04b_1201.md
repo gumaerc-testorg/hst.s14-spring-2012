@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Project mentor presentations.
-file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/412762020b093ad47adb346914db362e_MITHST_S14S12_lec04b_1201.pdf
+file: /ol-ocw-studio-app/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/412762020b093ad47adb346914db362e_MITHST_S14S12_lec04b_1201.pdf
 file_size: 555951
 file_type: application/pdf
 learning_resource_types:
