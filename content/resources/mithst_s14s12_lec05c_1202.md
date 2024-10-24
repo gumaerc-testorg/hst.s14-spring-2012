@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding Sana development workshop:
   Android client and OpenMRS development.'
-file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/1f232e1d1743aebc89cbf0b3517eaab4_MITHST_S14S12_lec05c_1202.pdf
+file: /ol-ocw-studio-app/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/1f232e1d1743aebc89cbf0b3517eaab4_MITHST_S14S12_lec05c_1202.pdf
 file_size: 189930
 file_type: application/pdf
 learning_resource_types:
