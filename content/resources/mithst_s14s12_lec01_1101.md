@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding Translational Research
   and Advocacy: New Paradigms for Equity.'
-file: /ol-ocw-studio-app/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/45ac54bb57ae3a52e0bc25e3279a60c7_MITHST_S14S12_lec01_1101.pdf
+file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/45ac54bb57ae3a52e0bc25e3279a60c7_MITHST_S14S12_lec01_1101.pdf
 file_size: 2975388
 file_type: application/pdf
 learning_resource_types:
