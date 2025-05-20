@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding Case study: Designing a
   diabetes screening project in Punjab.'
-file: /ol-ocw-studio-app/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/c65067eb616fdae20c1a4365e1e8e803_MITHST_S14S12_lec08_1203.pdf
+file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/c65067eb616fdae20c1a4365e1e8e803_MITHST_S14S12_lec08_1203.pdf
 file_size: 5170122
 file_type: application/pdf
 learning_resource_types:

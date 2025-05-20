@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Process improvement theory
   and application.
-file: /ol-ocw-studio-app/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/61cfac5add3eaf4d2cfa0ed3d53b4078_MITHST_S14S12_lec07_1105.pdf
+file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/61cfac5add3eaf4d2cfa0ed3d53b4078_MITHST_S14S12_lec07_1105.pdf
 file_size: 743988
 file_type: application/pdf
 learning_resource_types:

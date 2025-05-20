@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Student final project presentations.
-file: /ol-ocw-studio-app/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/3e20d9b3c7e569dfdb9b4456b3726794_MITHST_S14S12_proj_s12_2.pdf
+file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/3e20d9b3c7e569dfdb9b4456b3726794_MITHST_S14S12_proj_s12_2.pdf
 file_size: 453523
 file_type: application/pdf
 learning_resource_types:
