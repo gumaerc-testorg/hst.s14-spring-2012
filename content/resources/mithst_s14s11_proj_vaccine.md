@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Vaccine Supply Chain in
   Ethiopia.
-file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/c3e837ff72b127d5615a10329907e582_MITHST_S14S11_proj_vaccine.pdf
+file: /ol-ocw-studio-app/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/c3e837ff72b127d5615a10329907e582_MITHST_S14S11_proj_vaccine.pdf
 file_size: 854178
 file_type: application/pdf
 learning_resource_types:
