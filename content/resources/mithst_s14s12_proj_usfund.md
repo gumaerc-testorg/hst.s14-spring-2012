@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Impact of US Federal Funding
   on Global e-Health Initiatives in Developing Countries
-file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/e98304fcc3c46395c5e629e2afdcfcd7_MITHST_S14S12_proj_usfund.pdf
+file: /ol-ocw-studio-app/courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/e98304fcc3c46395c5e629e2afdcfcd7_MITHST_S14S12_proj_usfund.pdf
 file_size: 492113
 file_type: application/pdf
 learning_resource_types:
