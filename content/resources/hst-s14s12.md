@@ -11,7 +11,7 @@ image_metadata:
   caption: Mobile health technologies often leverage the cell phone's capabilities.
     Here, a community health worker and a dentist in India work together to identify
     and photograph pre-cancerous lesions to screen for oral cancer. (Photo courtesy
-    of {{% resource_link "016872c6-7021-420d-a073-a32eed1b0828" "Sana" %}}.)
+    of [Sana](http://www.sanamobile.org).)
   credit: Photo courtesy of Sana.
   image-alt: Photo of a health care worker taking a photo of the inside of a patient's
     mouth using a cell phone.
