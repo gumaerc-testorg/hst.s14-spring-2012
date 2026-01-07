@@ -27,7 +27,7 @@ Innovative mobile information services have the potential to revolutionize healt
 
 ## Description
 
-This course is a collaborative offering of {{% resource_link "d0ab3ff8-72b0-4bbe-8dcc-97c4d1d95e54" "Sana" %}}, {{% resource_link "f784c06d-b545-4a2c-ae16-5124f0b4a31d" "Partners in Health" %}}, and the {{% resource_link "0f4c81c2-4e51-4660-ab53-dfe3b1a59d2c" "Institute for Healthcare Improvement" %}} (IHI). The goal of this course is the development of innovations in information systems for developing countries that will (1) translate into improvement in health outcomes, (2) strengthen the existing organizational infrastructure, and (3) create a collaborative ecosystem to maximize the value of these innovations. Teaching students the science of improvement and scale is a strategy for capacity-building that has not been fully explored by current vertical programs that have focused on providing clinical skills to Community Health Workers (CHWs).
+This course is a collaborative offering of [Sana](http://sana.mit.edu/), [Partners in Health](http://www.pih.org/), and the [Institute for Healthcare Improvement](http://www.ihi.org/Pages/default.aspx) (IHI). The goal of this course is the development of innovations in information systems for developing countries that will (1) translate into improvement in health outcomes, (2) strengthen the existing organizational infrastructure, and (3) create a collaborative ecosystem to maximize the value of these innovations. Teaching students the science of improvement and scale is a strategy for capacity-building that has not been fully explored by current vertical programs that have focused on providing clinical skills to Community Health Workers (CHWs).
 
 The course will be taught by guest speakers who are internationally recognized experts in the field and who, with their operational experiences, will outline the challenges they faced and detail how these were addressed. As well as inviting them to share expertise in the areas where they are familiar, we ask our speakers to talk about quality improvement concepts such as value chain analysis, operations management and organizational change. We will be taking the speakers outside their comfort zone and will ask them to share the insights they gain in discovering how foundational work in quality improvement can be applied to seemingly intractable global health care problems.
 
@@ -77,6 +77,6 @@ Each class session is organized around a particular case, and/or required readin
 
 ### Recommended Readings
 
-Buntin, M. B., et al. "{{% resource_link "ae53491c-9264-45e1-9043-cc082b48110d" "The Benefits Of Health Information Technology: A Review Of The Recent Literature Shows Predominantly Positive Results" %}}." *Health Affairs* 30, no. 3 (2011): 464–71.
+Buntin, M. B., et al. "[The Benefits Of Health Information Technology: A Review Of The Recent Literature Shows Predominantly Positive Results](http://dx.doi.org/10.1377/hlthaff.2011.0178)." *Health Affairs* 30, no. 3 (2011): 464–71.
 
-Marczak, J., et al. {{% resource_link "4ec07dee-cb78-4576-b348-0f0683457db7" "\"Addressing Systemic Challenges to Social Inclusion in Health Care: Initiatives of the Private Sector.\" (PDF)" %}} *Americas Society*. Whitepaper, March 7, 2011.
+Marczak, J., et al. ["Addressing Systemic Challenges to Social Inclusion in Health Care: Initiatives of the Private Sector." (PDF)](https://ses.sp.bvs.br/local/File/Addressing%20Systemic%20Challenges%20to%20Social%20Inclusion%20in%20Health%20Care.pdf) *Americas Society*. Whitepaper, March 7, 2011.
